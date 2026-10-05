@@ -83,7 +83,3 @@ Todo es reproducible con `RANDOM_STATE = 42` (en `src/config.py`).
 | Experimentación | `StratifiedKFold` (TP1) → Optuna + MLflow (TF1) | GridSearchCV | Optuna explora mejor el espacio de hiperparámetros; MLflow registra configuración y métricas. |
 | Interpretabilidad | Coeficientes LR (TP1) → SHAP (TF1) | Permutation importance | SHAP permite explicaciones globales y locales por paciente. |
 | Despliegue | Streamlit (TF1) | FastAPI | Interfaz simple para demostrar el uso del modelo fuera del notebook. |
-
-## Uso de IA generativa
-Se utilizó un asistente de IA (Claude) como apoyo para organizar el código, la estructura del repositorio y la redacción.
-El grupo revisó, ejecutó y validó todos los resultados y es responsable de su interpretación.
