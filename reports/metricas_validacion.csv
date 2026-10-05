@@ -1,0 +1,7 @@
+,Recall (Malignant),Precision (Malignant),F1 (Malignant),Balanced Accuracy,Specificity,ROC-AUC,PR-AUC
+Baseline (Dummy estratificado),0.226,0.227,0.227,0.496,0.767,0.496,0.231
+Baseline (siempre Benign),0.0,0.0,0.0,0.5,1.0,0.5,0.233
+Regla dominio (Risk = High),0.453,0.701,0.55,0.697,0.941,0.701,0.465
+Regresión Logística,0.615,0.352,0.448,0.636,0.657,0.67,0.435
+Random Forest,0.453,0.7,0.55,0.697,0.941,0.697,0.499
+HistGradientBoosting,0.453,0.7,0.55,0.697,0.941,0.7,0.5
