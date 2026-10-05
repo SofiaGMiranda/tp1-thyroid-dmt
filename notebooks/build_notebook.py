@@ -106,8 +106,8 @@ md(r"""
 | Thyroid_Cancer_Risk | ordinal | Low / Medium / High (puntaje precalculado) | **Excluida** · regla de referencia |
 | **Diagnosis** | binaria | **Benign / Malignant** | **Objetivo** |
 
-**Fuente:** Kaggle – *Thyroid Cancer Risk Prediction Dataset* (archivo `thyroid_cancer_risk_data.csv`). No tiene período temporal.
-La licencia y el autor se documentan en el README a partir de la página del dataset.
+**Fuente:** Kaggle – *Thyroid Cancer Risk Dataset*, Bhargav Chirumamilla (2025), archivo `thyroid_cancer_risk_data.csv` — https://www.kaggle.com/datasets/bhargavchirumamilla/thyroid-cancer-risk-dataset. No tiene período temporal.
+La página no declara una licencia explícita; se usa solo con fines académicos citando la fuente.
 """)
 
 md("## 3. Análisis exploratorio de datos (EDA)\n### 3.1 Variable objetivo")

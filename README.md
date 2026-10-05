@@ -11,9 +11,9 @@ antecedentes, perfil hormonal (TSH, T3, T4) y tamaño del nódulo, y qué factor
 - **Uso previsto:** herramienta de priorización (triaje) para estudios confirmatorios, no de diagnóstico.
 
 ## Datos
-- **Fuente:** Kaggle – *Thyroid Cancer Risk Prediction Dataset* (`thyroid_cancer_risk_data.csv`).
-  - URL: `[COMPLETAR con el enlace exacto de Kaggle]`
-  - Licencia: `[COMPLETAR según la página del dataset]`
+- **Fuente:** Kaggle – *Thyroid Cancer Risk Dataset*, publicado por Bhargav Chirumamilla (2025), archivo `thyroid_cancer_risk_data.csv`.
+  - URL: https://www.kaggle.com/datasets/bhargavchirumamilla/thyroid-cancer-risk-dataset
+  - Licencia: la página no declara una licencia explícita en sus metadatos públicos; el dataset se usa solo con fines académicos y citando la fuente.
 - 212 691 pacientes × 17 variables. Sin faltantes ni duplicados.
 - **Limitación principal:** el dataset presenta señales claras de ser sintético (distribuciones uniformes, hormonas sin
   correlación entre sí, misma composición étnica en todos los países). Los resultados no deben extrapolarse a pacientes reales.
