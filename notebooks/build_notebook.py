@@ -526,8 +526,6 @@ md(r"""
 | 7 | Evaluación final única sobre test | — |
 | 8 | Demo de uso (formulario → probabilidad) | Streamlit |
 
-**Declaración de uso de IA generativa:** se utilizó un asistente de IA (Claude) como apoyo para organizar el código, la estructura del repositorio y la redacción.
-El grupo revisó, ejecutó y validó todos los resultados y es responsable de su interpretación.
 """)
 
 nb = nbf.v4.new_notebook(cells=cells, metadata={"kernelspec": {"name": "python3", "display_name": "Python 3", "language": "python"}})
